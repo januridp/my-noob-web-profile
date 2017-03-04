@@ -1,0 +1,12 @@
+-navigation
+--indent menu
+--thumbnail-navigator
+--web slideshow
+-password
+--ftp login
+-clocks
+--current date & time long
+-calendar
+--cookie
+-games
+--flipper

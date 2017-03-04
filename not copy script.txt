@@ -1,0 +1,1 @@
+onmousedown="return false" oncontextmenu="return false" onselectstart="return false" 
